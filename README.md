@@ -1,10 +1,5 @@
-### Boas-vindas ao meu perfil ❤️🖕
+### Boas-vindas ao meu perfil, só saiba que não tem nada aqui ❤️
 
-- Sou estudante no [Alura](https://www.alura.com.br) (Ruim dms)
-- Ainda sou um mestre no JavaScript, eu criei ele
-- Tá vendo esse troço aqui? É pra eu colocar meus projetos
-
- ### Quer me contatar 📧📫?
-
-- Vai ficar querendo.
-![](https://media1.tenor.com/m/BdOHYc9fC9EAAAAd/watermelon.gif)
+- Sou estudante no [Alura](https://www.alura.com.br)
+- Eu estou aprendendo com JavaScript
+- Esse repositório foi feito para eu colocar meus projetos, se eu me lembrar de colocá-los
